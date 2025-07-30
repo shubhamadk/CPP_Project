@@ -24,10 +24,15 @@ A console-based Hotel Management System written in C++. This project helps manag
 ## 🗂️ Project Structure
 CPP_Project
 ├── main.cpp # Main C++ source file
+
 ├── customers.dat # Customer data (auto-generated)
+
 ├── rooms.dat # Room status data (auto-generated)
+
 ├── bills.dat # Billing records (auto-generated)
+
 ├── config.dat # Internal ID tracking
+
 └── README.md # Project documentation
 
 ## 🧰 Requirements
