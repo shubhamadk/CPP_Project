@@ -22,7 +22,7 @@ A console-based Hotel Management System written in C++. This project helps manag
 - Object-Oriented Design (Classes: `Customer`, `Room`, `Bill`, `FileManager`, `HotelSystem`)
 
 ## 🗂️ Project Structure
-CPP_Project/
+CPP_Project
 ├── main.cpp # Main C++ source file
 ├── customers.dat # Customer data (auto-generated)
 ├── rooms.dat # Room status data (auto-generated)
